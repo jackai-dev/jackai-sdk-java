@@ -1,0 +1,9 @@
+{
+  "schema": "omniwrap.language-sdk/v1",
+  "generator": "OmniWrap 2.0.0",
+  "language": "java",
+  "slug": "java",
+  "package": "dev.jackai:jackai-sdk",
+  "repository": "https://github.com/jackai-dev/jackai-sdk-java",
+  "version": "1.0.0"
+}
